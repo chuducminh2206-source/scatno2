@@ -2384,12 +2384,96 @@
 		(uuid "0e774b2c-8a20-4db9-af8a-0e1f75c3c16c")
 	)
 	(no_connect
+		(at 60.96 68.58)
+		(uuid "10ef30d9-3b31-45ba-90e9-9c4129f1a99f")
+	)
+	(no_connect
+		(at 60.96 53.34)
+		(uuid "1f10896f-b3cd-4a9b-a754-c269b03ca93e")
+	)
+	(no_connect
+		(at 35.56 38.1)
+		(uuid "1fa4dcbe-0fae-4e47-a76b-10c5aa8e39bf")
+	)
+	(no_connect
+		(at 35.56 55.88)
+		(uuid "49dcc5bf-378f-4e5a-9198-c13c1aa13e8c")
+	)
+	(no_connect
+		(at 60.96 50.8)
+		(uuid "539045a9-9235-426e-96d1-300629490ffb")
+	)
+	(no_connect
+		(at 60.96 45.72)
+		(uuid "5b5a807e-437f-48a4-a8ba-e8040a822a0c")
+	)
+	(no_connect
+		(at 45.72 25.4)
+		(uuid "600537b0-ecbf-4515-9264-93322ff3be5e")
+	)
+	(no_connect
+		(at 53.34 25.4)
+		(uuid "667ea4e1-7adb-47f5-8989-d0ebdf635b0a")
+	)
+	(no_connect
+		(at 35.56 66.04)
+		(uuid "73dcdbe2-4f36-4136-9c68-5c3681680950")
+	)
+	(no_connect
+		(at 60.96 55.88)
+		(uuid "7b79b98e-9b6d-4760-b848-9659eff2254b")
+	)
+	(no_connect
+		(at 35.56 53.34)
+		(uuid "837f1f66-4701-494e-9bd1-2d12fcf6ed6a")
+	)
+	(no_connect
+		(at 60.96 58.42)
+		(uuid "8ff52a7d-6e00-4a15-b85a-b21c8a166c19")
+	)
+	(no_connect
+		(at 35.56 68.58)
+		(uuid "96ac6714-3695-4663-a90c-4852d45f961f")
+	)
+	(no_connect
+		(at 35.56 35.56)
+		(uuid "a3d5fd72-8162-4086-8f84-1c91d66c951e")
+	)
+	(no_connect
+		(at 60.96 35.56)
+		(uuid "b45e4df5-12c9-475f-8956-a2aa22899c5d")
+	)
+	(no_connect
+		(at 35.56 60.96)
+		(uuid "bc766d0b-9550-47e4-810e-6c0d05cdf472")
+	)
+	(no_connect
+		(at 35.56 50.8)
+		(uuid "be8e08e8-e34a-4218-8f01-43fd2465f819")
+	)
+	(no_connect
 		(at 121.92 66.04)
 		(uuid "c7d3dc13-b731-4de6-bc7c-06afa23bd781")
 	)
 	(no_connect
 		(at 123.19 34.29)
 		(uuid "d3e66cd6-fde6-4993-87e8-b3552ce9b615")
+	)
+	(no_connect
+		(at 35.56 58.42)
+		(uuid "e69cf9b8-6290-475d-a865-6256cbce4d45")
+	)
+	(no_connect
+		(at 60.96 71.12)
+		(uuid "e7dd9c2e-3b2a-48e4-83ac-6fee7ed0a5cc")
+	)
+	(no_connect
+		(at 35.56 63.5)
+		(uuid "fb4f43c6-5c0d-40f3-b20c-fb98048727b4")
+	)
+	(no_connect
+		(at 60.96 40.64)
+		(uuid "fe0eee44-124d-481b-b433-9e3e5d3f8ca7")
 	)
 	(wire
 		(pts
@@ -2523,6 +2607,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 41.91) (xy 124.46 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58a1b7fa-e269-42e9-8490-45053a8eb255")
+	)
+	(wire
+		(pts
 			(xy 62.23 60.96) (xy 60.96 60.96)
 		)
 		(stroke
@@ -2623,16 +2717,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 39.37) (xy 123.19 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa3a6220-bdac-46a3-b2a8-a8ecbd31a81a")
-	)
-	(wire
-		(pts
 			(xy 85.09 60.96) (xy 85.09 59.69)
 		)
 		(stroke
@@ -2640,16 +2724,6 @@
 			(type default)
 		)
 		(uuid "b2e14869-99a7-41bf-acb0-71a5133d61e9")
-	)
-	(wire
-		(pts
-			(xy 124.46 44.45) (xy 124.46 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba43277a-6711-4c98-85cf-dc560c136fa7")
 	)
 	(wire
 		(pts
@@ -2730,6 +2804,16 @@
 			(type default)
 		)
 		(uuid "eeb982c0-07e9-4eb5-8455-932b9aa42762")
+	)
+	(wire
+		(pts
+			(xy 124.46 39.37) (xy 123.19 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6f6e88e-83cd-4e31-bf2f-9a67fd040b5d")
 	)
 	(wire
 		(pts
@@ -3142,7 +3226,7 @@
 		)
 		(property "Value" "TP_GND"
 			(at 25.4 79.2479 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -3708,7 +3792,7 @@
 		)
 		(property "Value" "TP_3V3"
 			(at 25.4 71.8819 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -3855,7 +3939,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 124.46 45.72 0)
+		(at 124.46 41.91 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -3867,7 +3951,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f0ed8c3-c607-4a30-94cc-62cf6bdaa2e0")
 		(property "Reference" "#PWR08"
-			(at 124.46 52.07 0)
+			(at 124.46 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3878,7 +3962,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 124.46 50.8 0)
+			(at 124.46 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3888,7 +3972,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 45.72 0)
+			(at 124.46 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3899,7 +3983,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 45.72 0)
+			(at 124.46 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3910,7 +3994,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 124.46 45.72 0)
+			(at 124.46 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5124,88 +5208,6 @@
 			(project "scast_goad"
 				(path "/e67bcb6b-497c-4fce-bafc-767002b94006"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 124.46 41.91 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ee7979e6-e49d-413f-a27a-9bc628e7f46e")
-		(property "Reference" "R3"
-			(at 122.936 40.64 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_Pulldown"
-			(at 122.936 43.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal"
-			(at 124.46 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 124.46 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 124.46 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "8f16bfae-95d8-4607-87d1-c43ad988e3ff")
-		)
-		(pin "1"
-			(uuid "f3e98b25-88df-4996-8f1f-fe548a4c5c2e")
-		)
-		(instances
-			(project "scast_goad"
-				(path "/e67bcb6b-497c-4fce-bafc-767002b94006"
-					(reference "R3")
 					(unit 1)
 				)
 			)
